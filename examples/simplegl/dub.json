@@ -13,6 +13,8 @@
 
     "dependencies": 
     {
+        "gfm:core": {"path": "../../", "version": "~master"},
+        "gfm:math": {"path": "../../", "version": "~master"},
         "gfm:sdl2": {"path": "../../", "version": "~master"},
         "gfm:opengl": {"path": "../../", "version": "~master"}
     }    
